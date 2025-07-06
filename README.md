@@ -17,7 +17,7 @@ Experience the universe like never before with our interactive space exploration
 
 ## Youtube Video Link:
 
-https://github.com/blackseashark5/Asteral_Web_Hackathon
+https://youtu.be/xpXcoIoVcMs
 
 ## ✨ Features
 
